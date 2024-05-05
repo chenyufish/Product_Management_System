@@ -1,26 +1,26 @@
 
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶…Íşÿÿÿÿ8†›âÄô1
-{
-java:S1118":Add a private constructor to hide the implicit public one.(ıóÌ€ûÿÿÿÿJ$882046a8-192f-4f82-8e48-fe309ebfee9e
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶…Íşÿÿÿÿ8£úÆô1J$efb633ad-0378-4f96-a6e3-a8e8d17a984b
+‚
+java:S1118":Add a private constructor to hide the implicit public one.(ıóÌ€ûÿÿÿÿ8†µÇô1J$4dd3957e-029c-4e91-9afe-51896cb1643f
 g
-java:S6905$"Don't use the query "SELECT *".(—ûÿÿÿÿ8˜÷ºÄô1J$567b12d6-21f8-4ad9-821e-619a3e9c717b
+java:S6905$"Don't use the query "SELECT *".(—ûÿÿÿÿ8‡µÇô1J$53bdec9e-473b-446e-a7fb-4a733cadc5b4
+<
+java:S6905M"Don't use the query "SELECT *".(âœùû8æŠÇô1
+A
+java:S6905w"Don't use the query "SELECT *".(ãÒ¨Ëüÿÿÿÿ8ƒæŠÇô1
+Y	java:S125œ"<This block of commented-out lines of code should be removed.(”‰‚ù8†æŠÇô1
+B
+java:S6905Ë"Don't use the query "SELECT *".(Ğ—ğ€ùÿÿÿÿ8‡æŠÇô1
+^	java:S125ë"<This block of commented-out lines of code should be removed.(ÅÇ ùÿÿÿÿ8æŠÇô1
+^	java:S125œ"<This block of commented-out lines of code should be removed.(ÅÇ ùÿÿÿÿ8‘æŠÇô1
 b
-java:S6905M"Don't use the query "SELECT *".(âœùû8¨÷ºÄô1J$a50909fc-f1c0-41e3-ab51-f6256633281c
-g
-java:S6905w"Don't use the query "SELECT *".(ãÒ¨Ëüÿÿÿÿ8¸÷ºÄô1J$fbfb53fa-1d07-4806-8cf8-8112a641ae03
-x	java:S125œ"<This block of commented-out lines of code should be removed.(”‰‚ùJ$42ef8acf-2f08-45ae-9ad8-d2be8541df25
-h
-java:S6905Ë"Don't use the query "SELECT *".(Ğ—ğ€ùÿÿÿÿ8ö÷ºÄô1J$f69214bc-b0bf-4575-82f9-6812d8b96e85
-}	java:S125ë"<This block of commented-out lines of code should be removed.(ÅÇ ùÿÿÿÿJ$b99504c4-031c-4923-86cb-9d30d653426c
-}	java:S125œ"<This block of commented-out lines of code should be removed.(ÅÇ ùÿÿÿÿJ$8d7c0a9b-10f7-4910-ade9-685075bd4256
-b
-java:S6905Ş"Don't use the query "SELECT *".(ÛıÔM8¤øºÄô1J$a807c58a-5ddd-4295-8cf9-75af5d1789b3
-}	java:S125¦"<This block of commented-out lines of code should be removed.(ÅÌèıúÿÿÿÿJ$fc939e82-3d4a-444a-a27b-e7d9ee53cc13
-}	java:S125½"<This block of commented-out lines of code should be removed.(”ã•éúÿÿÿÿJ$229dfaca-0502-4393-ad96-1ce94108483b
+java:S6905Ş"Don't use the query "SELECT *".(ÛıÔM8§µÇô1J$5d3d775c-74e8-450c-8c17-f10dd68a0a20
+„	java:S125¦"<This block of commented-out lines of code should be removed.(ÅÌèıúÿÿÿÿ8«µÇô1J$51d645d2-2ede-4574-adda-6a3f636f7093
+„	java:S125½"<This block of commented-out lines of code should be removed.(”ã•éúÿÿÿÿ8­µÇô1J$4e522373-56b6-4f2f-93d0-d5f21198762b
 c
-java:S6905ê"Don't use the query "SELECT *".(öĞİÿ8ÁøºÄô1J$c3054b32-d778-4d3d-b4eb-c0e2503b0493
-}	java:S125’"<This block of commented-out lines of code should be removed.(×‚ÇáøÿÿÿÿJ$703cad99-5e53-4b64-90c1-18d5282a6731
+java:S6905ê"Don't use the query "SELECT *".(öĞİÿ8°µÇô1J$3502de34-1ceb-4b77-a826-3a4c750c650b
+„	java:S125’"<This block of commented-out lines of code should be removed.(×‚Çáøÿÿÿÿ8²µÇô1J$467cafe5-1ef1-4157-b48e-61ea672781e1
 c
-java:S6905Â"Don't use the query "SELECT *".(¤¥é8ÕøºÄô1J$aa3eabf0-0e09-4992-9ad1-8d654b2cf6c6
-}	java:S125¿"<This block of commented-out lines of code should be removed.(òªÔøÿÿÿÿJ$dccb23b6-0135-40af-9abd-5a46a2e0135d
-x	java:S125Ó"<This block of commented-out lines of code should be removed.(÷“áJ$1e25feb8-1dbe-4d48-bb00-8b1c4b22cd28
+java:S6905Â"Don't use the query "SELECT *".(¤¥é8²µÇô1J$c8dbd710-5576-4a58-be3a-ebaf70f816a8
+„	java:S125¿"<This block of commented-out lines of code should be removed.(òªÔøÿÿÿÿ8¹µÇô1J$7263d40a-8aaa-4a52-b042-743a621a4526
+	java:S125Ó"<This block of commented-out lines of code should be removed.(÷“á8ºµÇô1J$07db37a9-c5d6-4fa5-9ac7-f96546c56602

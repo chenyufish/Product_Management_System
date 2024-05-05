@@ -45,3 +45,11 @@ e
 5Library/src/com/ksamar/Supermarket/entity/Borrow.java,4\7\47cfe3072f76b40618ec6b9c7853929f1c3e7601
 b
 2Library/src/com/ksamar/Supermarket/entity/Log.java,4\1\416078aad09ee5e888ec32979bde121f08f769d8
+u
+ELibrary/src/com/ksamar/Supermarket/tools/table/LibraryTableModel.java,9\7\9709607d23275fb5faacf959349bdb0d71912369
+h
+8Library/src/com/ksamar/Supermarket/views/BorrowView.java,1\9\19be5830915b3bfc9d9881e1bd44700aa7275b72
+u
+ELibrary/src/com/ksamar/Supermarket/controller/user/UserContoller.java,0\3\03bc81db3b88497d3bb48dfbb908f6cb10fb63af
+r
+BLibrary/src/com/ksamar/Supermarket/controller/LoginController.java,d\e\de147be4b8eb39ecbc387a7f9e13a41d8d9cdd20

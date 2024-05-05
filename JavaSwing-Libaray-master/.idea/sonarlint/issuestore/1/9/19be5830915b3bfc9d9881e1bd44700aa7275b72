@@ -1,0 +1,17 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( “µÑJ$90a7a87e-2df2-4715-b2f8-4d3c0ef9c42e
+˜
+java:S1450-"WRemove the "products" field and declare it as a local variable in the relevant methods.(…‡­¢ÿÿÿÿÿJ$dcef6861-14ba-45f8-bd45-3a32daf71108
+n
+java:S1948,"2Make "selectedProducts" transient or serializable.(…ÓñÜJ$4ca0a76a-3295-45fa-8b44-b8da793f738f
+k
+java:S1948-"*Make "products" transient or serializable.(…‡­¢ÿÿÿÿÿJ$00b82145-352f-40f2-80f3-5eb6ba0f0723
+|	java:S125 "<This block of commented-out lines of code should be removed.(þ¤•ëÿÿÿÿÿJ$6e5b3cde-d796-46ce-b621-69cf36f940a5
+w	java:S1256"<This block of commented-out lines of code should be removed.(‚Ï˜çJ$17712ce4-0dd2-4b31-a6b1-690d00094f1e
+}	java:S125‡"<This block of commented-out lines of code should be removed.(ÐìýÿÿÿÿJ$90485b7c-880b-4e09-8434-d021943323e2
+x	java:S125¬"<This block of commented-out lines of code should be removed.(ß£ØòJ$07f4361f-272b-4ba0-ad97-d43f56c35b13
+x	java:S125‹"<This block of commented-out lines of code should be removed.(´Ê²J$12788887-3e2e-414f-ac2f-67f703ab54f6
+w	java:S125«"<This block of commented-out lines of code should be removed.(œ À`J$fe343c19-d335-4be0-9e2b-45409d74ca0c
+†
+java:S1117³"DRename "selectedProducts" which hides the field declared at line 44.(÷ã™ÁþÿÿÿÿJ$c0c531fc-2be0-4139-b9e2-816cdb9fec39
+}	java:S125Õ"<This block of commented-out lines of code should be removed.(ÿ§œƒùÿÿÿÿJ$562361d1-70d9-4cf0-b013-e888d1df25cf

@@ -1,0 +1,6 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( “µÑJ$ed370c35-d74c-438c-9cd5-8e1ef0930044
+g
+java:S1948>"+Make "tableDate" transient or serializable.(ŸÎÃËJ$a6c3d4f1-3e17-4c5c-b9b6-ecf15df6153e
+§
+java:S1149«"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ýÓŸ·ùÿÿÿÿJ$5b33da56-17fc-4f38-bde7-6f1784bfd652

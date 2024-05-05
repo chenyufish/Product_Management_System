@@ -1,126 +1,126 @@
 
 
-java:S1104"OMake url a static final constant or non-public and provide accessors if needed.(˜ ¾ôûÿÿÿÿJ$e1fcaea3-3607-481b-9ae4-0150293281b4
-˜
-java:S1104"WMake systemImage a static final constant or non-public and provide accessors if needed.(€ùÂ›úÿÿÿÿJ$6ed1190b-190e-4eb9-ae85-0e0a33cff050
-˜
-java:S1104"\Make closeButtonImage a static final constant or non-public and provide accessors if needed.(ßÇ®J$d9c5cc92-d8b3-4cc7-8e3c-8478f0db7dde
-œ
-java:S1104"[Make closeButtonIcon a static final constant or non-public and provide accessors if needed.(Øö®¢şÿÿÿÿJ$5815625d-009f-4887-aa5a-f7505ffc94ba
-
-java:S1104"aMake closeButtonHoverImage a static final constant or non-public and provide accessors if needed.(œ ™×J$da2e6f7f-7e40-4daa-9437-282ee091b787
+java:S1104"OMake url a static final constant or non-public and provide accessors if needed.(˜ ¾ôûÿÿÿÿJ$7ba6f478-6522-4c12-a9b3-706827d3eab4
+Ÿ
+java:S1104"WMake systemImage a static final constant or non-public and provide accessors if needed.(€ùÂ›úÿÿÿÿ8ÿÑ‚Çô1J$3e7b5260-dc5b-4a73-a678-3a4162a01442
+Ÿ
+java:S1104"\Make closeButtonImage a static final constant or non-public and provide accessors if needed.(ßÇ®8Ò‚Çô1J$d01475a4-b968-4770-a2e4-67c0cfa85cc8
+£
+java:S1104"[Make closeButtonIcon a static final constant or non-public and provide accessors if needed.(Øö®¢şÿÿÿÿ8Ò‚Çô1J$ab2e25bb-da61-4cfd-ab1b-043f803a8704
+¤
+java:S1104"aMake closeButtonHoverImage a static final constant or non-public and provide accessors if needed.(œ ™×8Ò‚Çô1J$51b1a8bc-2dcc-490d-a578-8c2dfc35370d
+¨
+java:S1104"`Make closeButtonHoverIcon a static final constant or non-public and provide accessors if needed.(Ñ¡—ûÿÿÿÿ8Ò‚Çô1J$8fe980f0-4690-4953-b5a8-26e275b14135
+£
+java:S1104"[Make hideButtonImage a static final constant or non-public and provide accessors if needed.(Óâó±ûÿÿÿÿ8Ò‚Çô1J$c8342ba1-fae8-48e5-80e3-6f2ff897ab7f
+¢
+java:S1104"ZMake hideButtonIcon a static final constant or non-public and provide accessors if needed.(¿Õ“Áûÿÿÿÿ8Ò‚Çô1J$91530d62-f50f-44de-9863-21f105632830
+£
+java:S1104"`Make hideButtonHoverImage a static final constant or non-public and provide accessors if needed.(ıò¬Ü8Ò‚Çô1J$e06aa571-19d1-4ead-b950-c2607e13a1fb
+§
+java:S1104"_Make hideButtonHoverIcon a static final constant or non-public and provide accessors if needed.(Ç¤Öûşÿÿÿÿ8Ò‚Çô1J$26cb4e0d-e917-4863-aa29-75b9ad9a1fe9
+—
+java:S1104"TMake homeIcon a static final constant or non-public and provide accessors if needed.(¢ÂûÃ8Ò‚Çô1J$d1093e12-98b3-4582-ba8e-c0af1b0310f0
 ¡
-java:S1104"`Make closeButtonHoverIcon a static final constant or non-public and provide accessors if needed.(Ñ¡—ûÿÿÿÿJ$424bd573-1164-43dc-aaed-e5ae0a5b9117
+java:S1104 "YMake homeFocusIcon a static final constant or non-public and provide accessors if needed.(ÀÚ ´øÿÿÿÿ8Ò‚Çô1J$c0412b20-fb5e-4427-852e-ae128caf1898
 œ
-java:S1104"[Make hideButtonImage a static final constant or non-public and provide accessors if needed.(Óâó±ûÿÿÿÿJ$832968e8-855d-489a-a192-982f9d7d2a9c
-›
-java:S1104"ZMake hideButtonIcon a static final constant or non-public and provide accessors if needed.(¿Õ“ÁûÿÿÿÿJ$e22db897-5f5e-4885-b3ef-31db0d97a535
-œ
-java:S1104"`Make hideButtonHoverImage a static final constant or non-public and provide accessors if needed.(ıò¬ÜJ$050b8123-4e09-4494-8fa6-141612cc4a9a
- 
-java:S1104"_Make hideButtonHoverIcon a static final constant or non-public and provide accessors if needed.(Ç¤ÖûşÿÿÿÿJ$8be135f0-8aa8-4013-ab9e-7142ed78b7e2
-
-java:S1104"TMake homeIcon a static final constant or non-public and provide accessors if needed.(¢ÂûÃJ$41ccd82e-0350-4e87-a888-f02c6bf7275e
-š
-java:S1104 "YMake homeFocusIcon a static final constant or non-public and provide accessors if needed.(ÀÚ ´øÿÿÿÿJ$6247f694-7fe1-4158-ad88-c2a6dfee431e
-•
-java:S1104!"TMake bookIcon a static final constant or non-public and provide accessors if needed.(‹…ÚÊşÿÿÿÿJ$2f094af1-5d53-4a48-bb01-bc4c3a1544dc
-š
-java:S1104""YMake bookFocusIcon a static final constant or non-public and provide accessors if needed.(±ÿŸíøÿÿÿÿJ$931038ae-34b5-4cb0-adf2-e2d07ea9529b
-’
-java:S1104#"VMake borrowIcon a static final constant or non-public and provide accessors if needed.(ÄÅÚÚJ$f95e662e-afeb-4ab1-96a0-28c5ef41f4c2
-–
-java:S1104$"[Make borrowFocusIcon a static final constant or non-public and provide accessors if needed.(ÒıÜZJ$adc6c59e-d735-4d16-ab90-f3347aeb9482
-—
-java:S1104%"VMake returnIcon a static final constant or non-public and provide accessors if needed.(²ÊŸ¯úÿÿÿÿJ$cc728728-5133-41ac-974d-b700465fb3ca
-œ
-java:S1104&"[Make returnFocusIcon a static final constant or non-public and provide accessors if needed.(«×úƒùÿÿÿÿJ$6bda040f-2f23-430a-8fcf-4c95b3f29f42
-
-java:S1104)"TMake userIcon a static final constant or non-public and provide accessors if needed.(Ñ³ÎJ$3edebc21-3da1-4fb5-bf9c-f3df35705729
-•
-java:S1104*"YMake userFocusIcon a static final constant or non-public and provide accessors if needed.(Ñ£İJ$c539e4c1-9f84-4596-be76-16f953d11671
-‘
-java:S1104+"VMake systemIcon a static final constant or non-public and provide accessors if needed.(¨£J$7d533369-547e-4971-bb64-a7891b0c2f0d
-—
-java:S1104,"[Make systemFocusIcon a static final constant or non-public and provide accessors if needed.(—Ş•J$d3d4b813-697d-4b4d-a32c-79afb4bb23a8
+java:S1104!"TMake bookIcon a static final constant or non-public and provide accessors if needed.(‹…ÚÊşÿÿÿÿ8‚Ò‚Çô1J$624dd61e-6ea8-418b-8cfc-b65f75c18dbd
+¡
+java:S1104""YMake bookFocusIcon a static final constant or non-public and provide accessors if needed.(±ÿŸíøÿÿÿÿ8‚Ò‚Çô1J$a2920c40-ef90-4563-ad02-42a9f7c45481
 ™
-java:S1104-"XMake bookPaneIcon a static final constant or non-public and provide accessors if needed.(ï§Ü‚ùÿÿÿÿJ$15d1d9a3-c48c-408d-949e-77f7fa028d24
-›
-java:S1104."ZMake borrowPaneIcon a static final constant or non-public and provide accessors if needed.(‹¤Î…ûÿÿÿÿJ$f2b0516b-5074-4b34-a5df-3f1620743d51
+java:S1104#"VMake borrowIcon a static final constant or non-public and provide accessors if needed.(ÄÅÚÚ8‚Ò‚Çô1J$04473d59-8d19-4473-8491-b64fce15bdd3
 
-java:S1104/"\Make overtimePaneIcon a static final constant or non-public and provide accessors if needed.(¥ê—ÊşÿÿÿÿJ$346152f3-f693-46b4-a7ae-38c6ef4c03a9
-”
-java:S11040"XMake timePaneIcon a static final constant or non-public and provide accessors if needed.(†—ÀJ$b46ec52a-05eb-4c58-8562-1619c2007e8e
-–
-java:S11041"UMake errorIcon a static final constant or non-public and provide accessors if needed.(©¾ŞúÿÿÿÿJ$5a277b46-d4cd-4f25-90b7-c375aa1017a2
+java:S1104$"[Make borrowFocusIcon a static final constant or non-public and provide accessors if needed.(ÒıÜZ8‚Ò‚Çô1J$a37c58c2-4663-44c5-bab4-45c75543160b
+
+java:S1104%"VMake returnIcon a static final constant or non-public and provide accessors if needed.(²ÊŸ¯úÿÿÿÿ8‚Ò‚Çô1J$5455c1b3-855a-4ab3-ba20-6a54b5ba729f
+£
+java:S1104&"[Make returnFocusIcon a static final constant or non-public and provide accessors if needed.(«×úƒùÿÿÿÿ8‚Ò‚Çô1J$2e150011-28e2-4820-a9cb-c67e43d74bd3
+—
+java:S1104)"TMake userIcon a static final constant or non-public and provide accessors if needed.(Ñ³Î8‚Ò‚Çô1J$c84a138d-4b69-43e0-a2a7-f6e66b791f52
+œ
+java:S1104*"YMake userFocusIcon a static final constant or non-public and provide accessors if needed.(Ñ£İ8‚Ò‚Çô1J$52b3c9a6-95aa-4fb1-bd4d-abbcf295dde6
 ˜
-java:S11042"WMake successIcon a static final constant or non-public and provide accessors if needed.(©¯¤”úÿÿÿÿJ$ab99f9cd-8ec1-4a34-aa0e-092f07c83f3d
-–
-java:S11043"UMake userImage a static final constant or non-public and provide accessors if needed.(®Ğ©ÍüÿÿÿÿJ$2597cd1e-8903-4acd-952d-3d6c8b60429f
-•
-java:S11044"YMake userImageIcon a static final constant or non-public and provide accessors if needed.(Ä‰¡J$c8bd2964-f3a0-4d2e-b7d3-38f3fdd3ec5e
+java:S1104+"VMake systemIcon a static final constant or non-public and provide accessors if needed.(¨£8‚Ò‚Çô1J$675bdbf5-8194-41c6-83bb-3d4bd1cfbdba
+
+java:S1104,"[Make systemFocusIcon a static final constant or non-public and provide accessors if needed.(—Ş•8‚Ò‚Çô1J$92855634-4a16-4441-a212-fc35a18d7f5b
+ 
+java:S1104-"XMake bookPaneIcon a static final constant or non-public and provide accessors if needed.(ï§Ü‚ùÿÿÿÿ8‚Ò‚Çô1J$f296c281-c178-4303-8257-f4cc2de5944d
+¢
+java:S1104."ZMake borrowPaneIcon a static final constant or non-public and provide accessors if needed.(‹¤Î…ûÿÿÿÿ8‚Ò‚Çô1J$69c94f78-67da-43c7-b2fe-7b7350bbd9d3
+¤
+java:S1104/"\Make overtimePaneIcon a static final constant or non-public and provide accessors if needed.(¥ê—Êşÿÿÿÿ8‚Ò‚Çô1J$94c0862c-c7af-4b3d-8e04-f2009c05394f
+›
+java:S11040"XMake timePaneIcon a static final constant or non-public and provide accessors if needed.(†—À8ƒÒ‚Çô1J$eb7cef82-4199-4a30-a50e-18796a710ff4
+
+java:S11041"UMake errorIcon a static final constant or non-public and provide accessors if needed.(©¾Şúÿÿÿÿ8ƒÒ‚Çô1J$1286f4c1-6851-4952-a479-11747fd6d4dc
+Ÿ
+java:S11042"WMake successIcon a static final constant or non-public and provide accessors if needed.(©¯¤”úÿÿÿÿ8ƒÒ‚Çô1J$d2e7fd24-fc9a-4312-96d9-33fce6db1fa5
+
+java:S11043"UMake userImage a static final constant or non-public and provide accessors if needed.(®Ğ©Íüÿÿÿÿ8ƒÒ‚Çô1J$9e9876d3-24b0-4869-8ecb-2b840bed6214
+œ
+java:S11044"YMake userImageIcon a static final constant or non-public and provide accessors if needed.(Ä‰¡8ƒÒ‚Çô1J$dacf70f9-3dfe-4652-9e65-7ff4a38e61e0
 j
-java:S1444")Make this "public static url" field final(˜ ¾ôûÿÿÿÿJ$2f64a9c9-5766-43cc-9ab0-62c3493eb891
-r
-java:S1444"1Make this "public static systemImage" field final(€ùÂ›úÿÿÿÿJ$cd8f97ae-83a7-4170-b34f-8fe6a329f85e
-r
-java:S1444"6Make this "public static closeButtonImage" field final(ßÇ®J$d0d7d833-5e1e-4a10-8006-83af7e7ce7b0
-v
-java:S1444"5Make this "public static closeButtonIcon" field final(Øö®¢şÿÿÿÿJ$979b86cf-894e-4f28-8ebd-85de2d209bce
-w
-java:S1444";Make this "public static closeButtonHoverImage" field final(œ ™×J$df30a98a-b382-4327-ac1b-b26b2cf0d1ba
+java:S1444")Make this "public static url" field final(˜ ¾ôûÿÿÿÿJ$cac84f98-6974-4fc1-9460-3db9d2d38b40
+y
+java:S1444"1Make this "public static systemImage" field final(€ùÂ›úÿÿÿÿ8„Ò‚Çô1J$916ab367-a951-4bc3-99f9-fb9399a816b3
+y
+java:S1444"6Make this "public static closeButtonImage" field final(ßÇ®8„Ò‚Çô1J$fc2dbcdf-08fb-4da4-9771-ce051de6f2d9
+}
+java:S1444"5Make this "public static closeButtonIcon" field final(Øö®¢şÿÿÿÿ8„Ò‚Çô1J$a8572603-3b7d-40d2-bc5b-a3e61b0323d9
+~
+java:S1444";Make this "public static closeButtonHoverImage" field final(œ ™×8„Ò‚Çô1J$42cce8ea-da03-47e0-ae7b-08964ae32d94
+‚
+java:S1444":Make this "public static closeButtonHoverIcon" field final(Ñ¡—ûÿÿÿÿ8„Ò‚Çô1J$c1737535-1f65-438c-b3c0-e4155c88b5aa
+}
+java:S1444"5Make this "public static hideButtonImage" field final(Óâó±ûÿÿÿÿ8„Ò‚Çô1J$13687f7c-c2cd-4400-9854-2bf8a5ec764e
+|
+java:S1444"4Make this "public static hideButtonIcon" field final(¿Õ“Áûÿÿÿÿ8„Ò‚Çô1J$728a6bfc-de78-47a6-a826-79b60e5077d0
+}
+java:S1444":Make this "public static hideButtonHoverImage" field final(ıò¬Ü8„Ò‚Çô1J$a3b285e7-3da9-4bdd-9362-6a24674cc4df
+
+java:S1444"9Make this "public static hideButtonHoverIcon" field final(Ç¤Öûşÿÿÿÿ8„Ò‚Çô1J$cc8249fa-7acf-4922-8c5c-9646db881d3a
+q
+java:S1444".Make this "public static homeIcon" field final(¢ÂûÃ8„Ò‚Çô1J$8b589d49-177a-4714-a9ae-79ccc0dcd1be
 {
-java:S1444":Make this "public static closeButtonHoverIcon" field final(Ñ¡—ûÿÿÿÿJ$3a460e32-a458-4f3c-b92d-fb7e13716209
+java:S1444 "3Make this "public static homeFocusIcon" field final(ÀÚ ´øÿÿÿÿ8„Ò‚Çô1J$d11dd687-3fe9-4109-aaca-1247fec7f0f6
 v
-java:S1444"5Make this "public static hideButtonImage" field final(Óâó±ûÿÿÿÿJ$3c128623-ec05-482a-852d-ceced5f5c41e
-u
-java:S1444"4Make this "public static hideButtonIcon" field final(¿Õ“ÁûÿÿÿÿJ$10bb7abc-3414-4254-92d8-562e4de6388b
-v
-java:S1444":Make this "public static hideButtonHoverImage" field final(ıò¬ÜJ$0e200685-9cc6-4c28-927a-bdc7b888f2a1
-z
-java:S1444"9Make this "public static hideButtonHoverIcon" field final(Ç¤ÖûşÿÿÿÿJ$1b0ff5c0-7326-46e5-b9ae-33cf40da3f3a
-j
-java:S1444".Make this "public static homeIcon" field final(¢ÂûÃJ$82afb776-fc81-48fc-8798-ad2c348fb7c6
-t
-java:S1444 "3Make this "public static homeFocusIcon" field final(ÀÚ ´øÿÿÿÿJ$d0ddfd12-dbb8-42d7-a739-727aa59e40c4
-o
-java:S1444!".Make this "public static bookIcon" field final(‹…ÚÊşÿÿÿÿJ$0ae06c7b-2567-4d8a-b3bb-6524f6cfee71
-t
-java:S1444""3Make this "public static bookFocusIcon" field final(±ÿŸíøÿÿÿÿJ$eb1b4664-f887-43b9-9b41-1ee725cf57b2
-l
-java:S1444#"0Make this "public static borrowIcon" field final(ÄÅÚÚJ$96b8f215-09d7-42a9-85d8-b70121e80a1e
-p
-java:S1444$"5Make this "public static borrowFocusIcon" field final(ÒıÜZJ$2cdca9e4-4474-43ee-9ccf-a79b19cb6804
-q
-java:S1444%"0Make this "public static returnIcon" field final(²ÊŸ¯úÿÿÿÿJ$d1cf9581-f431-4774-a4ea-52fd5e418546
-v
-java:S1444&"5Make this "public static returnFocusIcon" field final(«×úƒùÿÿÿÿJ$319f31dc-351c-404f-9164-48ec13e58476
-j
-java:S1444)".Make this "public static userIcon" field final(Ñ³ÎJ$2498218b-f315-4500-b9f6-cdb9bb57a0a5
-o
-java:S1444*"3Make this "public static userFocusIcon" field final(Ñ£İJ$6107805a-c8bc-4413-bbf2-570ac90f6655
-k
-java:S1444+"0Make this "public static systemIcon" field final(¨£J$6248f824-13ed-4cd3-bca2-1b8d28555d47
-q
-java:S1444,"5Make this "public static systemFocusIcon" field final(—Ş•J$4ed517b0-e2a3-4652-9f26-cd36ae364d5a
+java:S1444!".Make this "public static bookIcon" field final(‹…ÚÊşÿÿÿÿ8„Ò‚Çô1J$142a911a-148f-4e9f-8338-293d5a67a7ba
+{
+java:S1444""3Make this "public static bookFocusIcon" field final(±ÿŸíøÿÿÿÿ8„Ò‚Çô1J$c3d60cc1-7bf6-41e4-b0b1-3bce5a3efb8e
 s
-java:S1444-"2Make this "public static bookPaneIcon" field final(ï§Ü‚ùÿÿÿÿJ$170cb35b-92cc-430a-8045-24ded4a2ee10
-u
-java:S1444."4Make this "public static borrowPaneIcon" field final(‹¤Î…ûÿÿÿÿJ$c7301960-4cbe-4f71-8485-bf581af9510c
+java:S1444#"0Make this "public static borrowIcon" field final(ÄÅÚÚ8„Ò‚Çô1J$9b59dec3-cd00-4e32-9ec3-d3d91d522a31
 w
-java:S1444/"6Make this "public static overtimePaneIcon" field final(¥ê—ÊşÿÿÿÿJ$4d4a4d64-2193-40ac-aadd-14f54f1dda02
-n
-java:S14440"2Make this "public static timePaneIcon" field final(†—ÀJ$98f301b6-99a3-4f4f-8fc4-38f62bdd1837
-p
-java:S14441"/Make this "public static errorIcon" field final(©¾ŞúÿÿÿÿJ$5d6002ad-ec5a-4cde-b1db-9f298acc802a
+java:S1444$"5Make this "public static borrowFocusIcon" field final(ÒıÜZ8„Ò‚Çô1J$2f882027-9fa1-4be2-a201-1e0de1fadf5c
+x
+java:S1444%"0Make this "public static returnIcon" field final(²ÊŸ¯úÿÿÿÿ8…Ò‚Çô1J$ea97e4e0-f0ca-4158-b620-b442e86e6e0b
+}
+java:S1444&"5Make this "public static returnFocusIcon" field final(«×úƒùÿÿÿÿ8…Ò‚Çô1J$f4d4071b-79e6-41b3-88d0-49186968cd61
+q
+java:S1444)".Make this "public static userIcon" field final(Ñ³Î8…Ò‚Çô1J$06f592bb-0719-4ead-b3f3-b51757dc6c9c
+v
+java:S1444*"3Make this "public static userFocusIcon" field final(Ñ£İ8…Ò‚Çô1J$e82f2a83-1af0-4069-801b-35caf3c36016
 r
-java:S14442"1Make this "public static successIcon" field final(©¯¤”úÿÿÿÿJ$21436c09-92a8-4a9c-a1c9-ccb6e5d5313b
-p
-java:S14443"/Make this "public static userImage" field final(®Ğ©ÍüÿÿÿÿJ$212b9bc3-970c-40d5-a4bc-dfa0492358f7
-o
-java:S14444"3Make this "public static userImageIcon" field final(Ä‰¡J$022c0de2-95a7-4c47-b26a-cb37cc319e89
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÓğÑûÿÿÿÿ8úÌØÄô1J$e90e24f0-fef1-4697-bb3a-67f4f19d899c
+java:S1444+"0Make this "public static systemIcon" field final(¨£8…Ò‚Çô1J$d64d8550-43b3-4c39-ad90-5bd789a6bbd1
+x
+java:S1444,"5Make this "public static systemFocusIcon" field final(—Ş•8…Ò‚Çô1J$2c8e434c-2df8-460a-9419-9df114c7ed32
+z
+java:S1444-"2Make this "public static bookPaneIcon" field final(ï§Ü‚ùÿÿÿÿ8…Ò‚Çô1J$11e2c4da-c2af-477b-af31-91a2a72ab27f
+|
+java:S1444."4Make this "public static borrowPaneIcon" field final(‹¤Î…ûÿÿÿÿ8…Ò‚Çô1J$47541e86-2d55-4a5b-b8c4-1aec488dfa28
+~
+java:S1444/"6Make this "public static overtimePaneIcon" field final(¥ê—Êşÿÿÿÿ8…Ò‚Çô1J$24fdf138-5438-4e2a-bb86-d8fb3cf06bc0
+u
+java:S14440"2Make this "public static timePaneIcon" field final(†—À8…Ò‚Çô1J$f2f1f3a7-c8b0-47aa-8792-ec869656ccc7
+w
+java:S14441"/Make this "public static errorIcon" field final(©¾Şúÿÿÿÿ8…Ò‚Çô1J$f4c940c4-5965-4851-8b10-88427c8f3898
+y
+java:S14442"1Make this "public static successIcon" field final(©¯¤”úÿÿÿÿ8…Ò‚Çô1J$328af14c-eafd-4951-8c4a-a40788aefa80
+w
+java:S14443"/Make this "public static userImage" field final(®Ğ©Íüÿÿÿÿ8…Ò‚Çô1J$5c130363-3230-40ba-91df-369f3e2bcf51
+v
+java:S14444"3Make this "public static userImageIcon" field final(Ä‰¡8…Ò‚Çô1J$856f1f15-aba0-4584-a0bf-2f80a64ba5f7
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÓğÑûÿÿÿÿ8úÌØÄô1J$dedeb5b8-9b22-4888-8432-1786ed7d0ded
 {
-java:S1118":Add a private constructor to hide the implicit public one.(™Å˜ÏûÿÿÿÿJ$be7d1490-36e2-4a4f-b85e-f16ec1f05a71
-|	java:S125'"<This block of commented-out lines of code should be removed.(¨Âş—ùÿÿÿÿJ$25ca1fd9-2c82-4a54-b996-455fb76c551b
-|	java:S125U"<This block of commented-out lines of code should be removed.(×’³ŸıÿÿÿÿJ$3ecbe75a-ee7f-426e-b7dd-0d5b91ce1ec2
+java:S1118":Add a private constructor to hide the implicit public one.(™Å˜ÏûÿÿÿÿJ$ca847bef-71bb-4d89-ae0a-6d9a92011a4d
+ƒ	java:S125'"<This block of commented-out lines of code should be removed.(¨Âş—ùÿÿÿÿ8‘Ò‚Çô1J$f2f19bb2-57fd-4989-92ac-28ae3eb750d7
+|	java:S125U"<This block of commented-out lines of code should be removed.(×’³ŸıÿÿÿÿJ$c64ab252-ba3d-47bd-9bb8-a1c703495d35
