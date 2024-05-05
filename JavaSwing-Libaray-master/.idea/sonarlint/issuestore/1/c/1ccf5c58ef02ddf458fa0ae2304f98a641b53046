@@ -1,0 +1,10 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ž¶…Íþÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(»ˆ˜Ùüÿÿÿÿ
+:
+java:S6905"Don't use the query "SELECT *".(Ží‰ øÿÿÿÿ
+4
+java:S6905I"Don't use the query "SELECT *".(ßãæ2
+6
+java:S6905À"Don't use the query "SELECT *".(±‡âÇ

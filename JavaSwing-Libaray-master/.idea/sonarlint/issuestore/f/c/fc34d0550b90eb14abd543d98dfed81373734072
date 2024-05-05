@@ -1,11 +1,25 @@
 
 P
 java:S1118":Add a private constructor to hide the implicit public one.(­ÏÉ
+A
+java:S6905$"Don't use the query "SELECT *".(—ûÿÿÿÿ8˜÷ºÄô1
+<
+java:S6905M"Don't use the query "SELECT *".(âœùû8¨÷ºÄô1
+A
+java:S6905w"Don't use the query "SELECT *".(ãÒ¨Ëüÿÿÿÿ8¸÷ºÄô1
 R	java:S125œ"<This block of commented-out lines of code should be removed.(”‰‚ù
+B
+java:S6905Ë"Don't use the query "SELECT *".(Ğ—ğ€ùÿÿÿÿ8ö÷ºÄô1
 R	java:S125ë"<This block of commented-out lines of code should be removed.(º‘Ú™
 R	java:S125œ"<This block of commented-out lines of code should be removed.(º‘Ú™
+<
+java:S6905Ş"Don't use the query "SELECT *".(ÛıÔM8¤øºÄô1
 W	java:S125¦"<This block of commented-out lines of code should be removed.(ÅÌèıúÿÿÿÿ
 W	java:S125½"<This block of commented-out lines of code should be removed.(”ã•éúÿÿÿÿ
+=
+java:S6905ê"Don't use the query "SELECT *".(öĞİÿ8ÁøºÄô1
 W	java:S125’"<This block of commented-out lines of code should be removed.(×‚Çáøÿÿÿÿ
+=
+java:S6905Â"Don't use the query "SELECT *".(¤¥é8ÕøºÄô1
 W	java:S125¿"<This block of commented-out lines of code should be removed.(Â¸Œüÿÿÿÿ
 R	java:S125Ó"<This block of commented-out lines of code should be removed.(÷“á
